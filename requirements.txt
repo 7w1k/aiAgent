@@ -4,5 +4,4 @@ langchain-openai
 langgraph
 chromadb
 python-dotenv
-tiktoken
 openai
